@@ -1,4 +1,4 @@
-public class Prueba1 {
+public class VariablesMaxMin {
 //haz variables donde se vean los numeros max y min de cada metodo
     public static void main (String[] args){
         System.out.println("Estos son los valores minimos de las siguientes variables:");
